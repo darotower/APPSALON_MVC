@@ -1,0 +1,3 @@
+npm run gulp
+cd public
+PHP -S localhost:3000
